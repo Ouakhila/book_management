@@ -25,7 +25,7 @@ import {Link} from 'react-router-dom';
         </li>
         <li className="nav-item">
           <Link className="nav-link text-white text-uppercase ml-5" to="/news">
-            news</Link>
+            New Books </Link>
         </li>
         <li className="nav-item">
           <Link className="nav-link text-white text-uppercase ml-5" to="/contact">

@@ -8,19 +8,18 @@ import styled from 'styled-components';
        <div className="footer-middle">
         <div className="container">
         <div className="row">
-            {/*Column 1*/}
-            <div className="col-md-3 col-sm-6">
-             <h4>Lorem ipsm</h4>  
+             {/*Column 1*/}
+            <div className="col-md-3 col-sm-4">
+             <h4>Book management</h4>  
              <ul className="list-styled">
-                <li>You are the best</li>
-                <li>You are the best</li>
-                <li>You are the best</li>
-                <li>You are the best</li>
+                <li>Check out the latest book</li>
+                <li>arrange your book online</li>
+               
              </ul> 
             </div>
              {/*Column 2*/}
-             <div className="col-md-3 col-sm-6">
-             <h4>Lorem ipsm</h4>  
+             <div className="col-md-3 col-sm-4">
+             <h4>Some useful links </h4>  
              <ul className="list-styled">
                 <li><a href="/">You are the best</a></li>
                 <li><a href="/">You are the best</a></li>
@@ -29,13 +28,13 @@ import styled from 'styled-components';
              </ul> 
             </div>
              {/*Column 3*/}
-             <div className="col-md-3 col-sm-6">
-             <h4>Lorem ipsm</h4>  
+             <div className="col-md-3 col-sm-4">
+             <h4>contact us</h4>  
              <ul className="list-styled">
-                <li>You are the best</li>
-                <li>You are the best</li>
-                <li>You are the best</li>
-                <li>You are the best</li>
+                <li>078965444</li>
+                <li>book@gmail.com</li>
+                <li>WV40 T60</li>
+                <li>Wolverhampton</li>
              </ul> 
             </div>
              {/*Column 4*/}
@@ -44,8 +43,7 @@ import styled from 'styled-components';
              <ul className="list-styled">
                 <li>You are the best</li>
                 <li>You are the best</li>
-                <li>You are the best</li>
-                <li>You are the best</li>
+               
              </ul> 
             </div>
             {/* Footer Bottom*/}
@@ -80,4 +78,5 @@ ul li a {
 ul li a: hover {
     color: var(--mainLightGrey);
 }
+ 
 `;

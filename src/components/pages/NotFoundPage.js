@@ -4,7 +4,7 @@ import React, { Component } from 'react'
     render() {
         return (
             <div>
-              <h2> NotFoundPage page...</h2>  
+              <h2> NotFound...</h2>  
             </div>
         );
     }
